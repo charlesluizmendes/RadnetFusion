@@ -1,0 +1,60 @@
+{
+  "task": "edge_load_classification",
+  "classes": [
+    "baixa",
+    "media",
+    "alta"
+  ],
+  "train": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "precision_weighted": 1.0,
+    "recall_weighted": 1.0,
+    "f1_weighted": 1.0,
+    "per_class": {
+      "baixa": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "media": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "alta": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    }
+  },
+  "test": {
+    "accuracy": 0.4,
+    "precision_macro": 0.4444444444444444,
+    "recall_macro": 0.3333333333333333,
+    "f1_macro": 0.35555555555555557,
+    "precision_weighted": 0.5333333333333333,
+    "recall_weighted": 0.4,
+    "f1_weighted": 0.42666666666666664,
+    "per_class": {
+      "baixa": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "media": {
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+      },
+      "alta": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666
+      }
+    }
+  }
+}

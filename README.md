@@ -15,15 +15,30 @@ $ pip install -r requirements.txt
 Ou manualmente através dos seguintes comandos:
 
 ```
+pip install torch
 pip install numpy
+pip install pandas
+pip install scikit-learn
 pip install matplotlib
 pip install nbformat
 ```
 
+* Se possuir recursos de CUDA:
+
+```
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
+
 ## Execução
 
-## Fusão
+### Dataset
 
-Para obter a fusão de dados basta executar o notebook abaixo:
+Primeiramente vamos criar o dataset com notebook:
 
-[fusion.ipynb](https://github.com/charlesluizmendes/Kalman/blob/main/src/fusion.ipynb)
+[dataset.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/feature/main/src/dataset.ipynb)
+
+### Processamento
+
+Após isso, vamos criar o modelo de previsão de Links com o notebook:
+
+[processing.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/feature/main/src/processing.ipynb)
