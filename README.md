@@ -15,9 +15,10 @@ $ pip install -r requirements.txt
 Ou manualmente através dos seguintes comandos:
 
 ```
-pip install torch
-pip install numpy
 pip install pandas
+pip install numpy
+pip install torch
+pip install torch-geometric
 pip install scikit-learn
 pip install matplotlib
 pip install nbformat
@@ -33,12 +34,19 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ### Dataset
 
-Primeiramente vamos criar o dataset com notebook:
 
-[dataset.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/feature/main/src/dataset.ipynb)
 
 ### Processamento
 
-Após isso, vamos criar o modelo de previsão de Links com o notebook:
 
-[processing.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/feature/main/src/processing.ipynb)
+
+### Inferencia
+
+
+
+### Kalman
+
+
+
+### Benchmark
+
