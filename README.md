@@ -16,6 +16,8 @@ Ou manualmente através dos seguintes comandos:
 
 ```
 pip install numpy
+pip install matplotlib
+pip install nbformat
 ```
 
 ## Execução
