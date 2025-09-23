@@ -51,3 +51,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ### Kalman
 
 [5.kalman.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/main/src/4.kalman.ipynb)
+
+### Benchmark
+
+[5.benchmark.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/main/src/5.benchmark.ipynb)
