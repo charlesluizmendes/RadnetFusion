@@ -12,9 +12,3 @@ venv/
 
 # VSCode
 .vscode
-
-# Datasets Salvos
-datasets/
-
-# Modelos Salvos
-models/
