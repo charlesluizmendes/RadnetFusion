@@ -38,15 +38,15 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ### Treinamento
 
-[2,train.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/main/src/2.train.ipynb)
+[2.train.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/main/src/2.train.ipynb)
 
 ### Inferencia
 
 [3.inference.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/main/src/3.inference.ipynb)
 
-### 
+### Fusion
 
-
+[4.fusion.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/main/src/4.fusion.ipynb)
 
 ### Kalman
 
