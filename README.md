@@ -21,7 +21,6 @@ pip install torch
 pip install torch-geometric
 pip install scikit-learn
 pip install matplotlib
-pip install nbformat
 ```
 
 * Se possuir recursos de CUDA:
@@ -54,4 +53,4 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ### Results
 
-[5.results.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/main/src/6.results.ipynb)
+[6.results.ipynb](https://github.com/charlesluizmendes/DataFusion/blob/main/src/6.results.ipynb)
