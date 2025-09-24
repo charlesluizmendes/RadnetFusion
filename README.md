@@ -4,6 +4,8 @@ Projeto da Disciplina Fusão de Dados, utilizando a fusão do modelo GNN treinad
 
 ## Ambiente
 
+Todo o desenvolvimento foi realizando utilizando Python 3.12.4.
+
 ### Pacotes
 
 Podemos instalar as dependências do projeto através do comando abaixo:
