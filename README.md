@@ -23,6 +23,7 @@ pip install torch
 pip install torch-geometric
 pip install scikit-learn
 pip install matplotlib
+pip install nbformat
 ```
 
 * Se possuir recursos de CUDA:
