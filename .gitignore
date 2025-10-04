@@ -12,3 +12,15 @@ venv/
 
 # VSCode
 .vscode
+
+# Dataset
+datasets/
+
+# Model
+models/
+
+# Input
+inputs/
+
+# Output
+outputs/

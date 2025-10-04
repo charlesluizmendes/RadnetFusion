@@ -21,6 +21,7 @@ pip install pandas
 pip install numpy
 pip install torch
 pip install torch-geometric
+pip install pykalman
 pip install scikit-learn
 pip install matplotlib
 pip install nbformat
