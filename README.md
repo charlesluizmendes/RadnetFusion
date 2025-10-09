@@ -23,6 +23,7 @@ pip install torch
 pip install torch-geometric
 pip install pykalman
 pip install scikit-learn
+pip install scikit-fuzzy
 pip install matplotlib
 pip install seaborn
 pip install nbformat
