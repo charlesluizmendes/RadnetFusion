@@ -21,7 +21,7 @@ pip install pandas
 pip install numpy
 pip install torch
 pip install torch-geometric
-pip install pykalman
+pip install filterpy
 pip install scikit-learn
 pip install scikit-fuzzy
 pip install matplotlib
